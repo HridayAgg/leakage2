@@ -1,0 +1,5 @@
+{
+  "name": "D2O Guard: Heavy Water Pipeline Monitor",
+  "description": "Industrial-grade real-time monitoring for Heavy Water (D2O) transport systems, featuring multi-zone leakage detection and safety protocols.",
+  "requestFramePermissions": []
+}
